@@ -1,7 +1,7 @@
-Group Name   :
-Website Title:
-Group Leader :
-Group Member1:
-Group Member2:
-Group Member3:
-Group Member4:
+Group Name   : Harpazo
+Website Title: Harpazo
+Group Leader : Alkinoos Delinanos
+Group Member1: Thanasis Katsoridis 
+Group Member2: Reis Lutolli 
+Group Member3: George Chatzigiannis 
+Group Member4: Polyvios Fotiadis 
